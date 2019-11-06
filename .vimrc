@@ -28,6 +28,8 @@ Plugin 'terryma/vim-multiple-cursors'
 Plugin 'honza/vim-snippets'
 " Typescript
 Plugin 'herringtondarkholme/yats.vim'
+" Graphql
+Plugin 'jparise/vim-graphql'
 call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
